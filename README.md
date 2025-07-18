@@ -80,7 +80,7 @@ I led the entire front-end and back-end implementation of the Eco platform. This
 ## 🙋‍♂️ Contact
 
 Want to learn more about the project, the tech, or the design process?  
-Feel free to reach out on [LinkedIn](www.linkedin.com/in/ryan-gaffere-59044b240) or email me directly.
+Feel free to reach out on LinkedIn or email me directly.
 
 ---
 
