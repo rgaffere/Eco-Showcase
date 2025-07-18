@@ -2,7 +2,7 @@
 
 **Eco** is a location-based mobile app that helps users discover social events happening nearby. Designed for spontaneity and real-world connection, Eco lets users find and share events in real time through a simple map interface and user-friendly feed.
 
-> 📱 Co-founded, designed, and engineered by [Your Name]  
+> 📱 Co-founded, designed and engineered by Ryan G. and Nahom A. 
 > 🚀 Available on the App Store  
 
 ---
@@ -80,7 +80,7 @@ I led the entire front-end and back-end implementation of the Eco platform. This
 ## 🙋‍♂️ Contact
 
 Want to learn more about the project, the tech, or the design process?  
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/rgaffere) or email me directly.
+Feel free to reach out on [LinkedIn](www.linkedin.com/in/ryan-gaffere-59044b240) or email me directly.
 
 ---
 
