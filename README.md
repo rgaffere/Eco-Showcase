@@ -62,27 +62,21 @@ I led the entire front-end and back-end implementation of the Eco platform. This
 
 ## 📸 Screenshots
 
-_Add screenshots of the app and website here if desired:_
+![1](screenshots/ecoapp1.jpeg)
 
-📱 App Home 🌐 Website Landing Page
+![2](screenshots/ecoapp2.jpeg)
 
-| Event Feed | | Clean hero section |
-| Nearby Events | | App download links |
-| + Create Event | | Custom icons/videos |
+![3](screenshots/ecoapp3.jpeg)
+
+![4](screenshots/ecoapp4.jpeg)
+
+![5](screenshots/ecoapp5.jpeg)
 
 ---
 
 ## 🔗 Link
 
 - 🌐 [Website: geteco.app](https://geteco.app)
-
----
-
-## 🚫 Why No Code?
-
-The core app and backend involve sensitive authentication logic and Firestore rules that are tightly scoped to production environments. To protect users and backend integrity, the source code is private.
-
-This repo exists to document and showcase the app's architecture, design, and impact.
 
 ---
 
