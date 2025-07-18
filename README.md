@@ -63,7 +63,7 @@ I led the entire front-end and back-end implementation of the Eco platform. This
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/ecoapp2.jpeg" alt="Screenshot 2" width="192"/>
+  <img src="screenshots/ecoapp2.jpeg" alt="Screenshot 2" width="191"/>
   <img src="screenshots/ecoapp3.jpeg" alt="Screenshot 3" width="200"/>
   <img src="screenshots/ecoapp4.jpeg" alt="Screenshot 4" width="203"/>
   <img src="screenshots/ecoapp5.jpeg" alt="Screenshot 5" width="205"/>
